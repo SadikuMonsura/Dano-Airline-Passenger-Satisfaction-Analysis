@@ -179,6 +179,10 @@ Data preparation activities included:
 
 ![](image_17.png)
 
+![](image_18.png)
+
+![]()
+
 ![]()
 
 ![]()

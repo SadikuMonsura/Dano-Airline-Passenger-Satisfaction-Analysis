@@ -193,6 +193,12 @@ Data preparation activities included:
 
 ![](image_23.png)
 
+
+
 ## DASHBOARD
+
+![](DashBoard_Overview.png)
+
+![](Dashboard_avg.satifaction.png)
 
 ![]()

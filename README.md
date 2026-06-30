@@ -64,3 +64,89 @@ This analysis seeks to answer the following questions
 5. Which service attributes have the strongest impact on passenger satisfaction?
 6. Where are the largest service quality gaps that require attention.
 7. What strategic actions should Dano Airlines prioritize to improve customer satisfaction and regain customer confidence?
+
+## SKILLS AND CONCEPTS DEMONSTRATED
+
+###  SQL (PostgreSQL)
+- Data importation and querying
+- Data cleaning and transformation
+- Data validation
+- Data modeling
+- Aggregation and KPI calculations
+- Customer segmentation analysis
+- Service gap analysis
+  
+### Power BI
+- Dashboard design
+- KPI reporting
+- Business storytelling through dashboards
+- Analytical Skills
+- Customer Satisfaction Analysis
+- Descriptive Data Analysis
+- Root Cause Analysis
+- Service Quality Assessment
+- Performance Measurement
+
+## DATA OVERVIEW
+
+### Dataset Description:
+The dataset contains 129,880 passenger survey responses and flight-related information collected from Dano Airline customers (frictional dataset).
+The dataset was cleaned and transformed in PostgreSQL before being imported into Power BI for visualization and analysis.
+
+### Dataset Variables:
+The dataset contains demographic, operational and service evaluation variables such as: 
+
+#### Passenger Information
+- Passenger ID
+- Customer Type
+- Age Group
+- Travel Type
+
+#### Flight Information
+- Flight Distance
+- Departure Delay
+- Arrival Delay
+- Travel Class
+
+#### Service Ratings
+- In-flight Entertainment
+- Baggage Handling
+- Check-in Service
+- Cleanliness
+- Departure and Arrival Time Convenience
+- Ease of Online Booking
+- Food and Drink
+- Gate Location
+- In-flight Service
+- In-flight Wi-Fi Service 
+- Leg Room Service
+- On-board Service
+- Online Boarding 
+- Seat Comfort
+  
+#### Target Variable
+- Satisfaction Status
+   - Satisfied
+  -  ssatisfied
+
+### Data Quality Process
+
+Data preparation activities included:
+
+- Handled missing values
+- Removed duplicates
+- Standardizied text values
+- Validated data consistency
+- Created age group categories
+- Performed service gap analysis
+- Created calculated fields for KPI reporting
+
+## METHODOLOGY
+
+### Queries
+
+![]()
+
+![]()
+
+

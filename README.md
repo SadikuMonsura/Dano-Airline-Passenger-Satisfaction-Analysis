@@ -201,4 +201,26 @@ Data preparation activities included:
 
 ![](Dashboard_avg.satifaction.png)
 
-![]()
+![](Dashboard_gap_analysis.png)
+
+
+## ANALYSIS AND FINDINGS (INSIGHTS)
+
+### Key Metrics from the Dashboard 
+
+#### Metric Values:
+- Total Passengers
+     129,880
+- Satisfaction Rate
+       43%
+- Dissatisfaction Rate
+     56%
+- Average Flight Distance
+       1,190.3 Miles
+- Average Departure Delay
+     15 Minutes
+- Average Arrival Delay
+     15 Minutes
+
+
+

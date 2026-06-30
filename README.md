@@ -194,5 +194,3 @@ Data preparation activities included:
 ![]()
 
 ![]()
-
-![]()

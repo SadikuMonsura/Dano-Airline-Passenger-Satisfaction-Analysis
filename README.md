@@ -191,6 +191,6 @@ Data preparation activities included:
 
 ![](imae_22.png)
 
-![]()
+![](image_23.png)
 
 ![]()

@@ -169,13 +169,7 @@ Data preparation activities included:
 
 ![](image_9.png)
 
-
-
-
-
-![](image_12.png)
-
-![]()
+![](image_13.png)
 
 ![]()
 

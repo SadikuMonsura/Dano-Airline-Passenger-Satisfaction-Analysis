@@ -145,8 +145,8 @@ Data preparation activities included:
 
 ### Queries
 
-![]()
+![](image_1.png)
 
 ![]()
 
-
+![]()

@@ -269,3 +269,38 @@ These findings indicate that passenger experience varies significantly across tr
 #### Key Insight: 
 Because Economy passengers typically represent the largest customer segment, they are the primary contributor to overall dissatisfaction, even modest improvements in this category could significantly increase overall satisfaction rates.This highlights a significant service quality gap across travel classes. 
 
+### Age Group Analysis: 
+
+Passenger satisfaction varies significantly across age groups. Adults recorded the highest number of satisfied passengers 28,261 compared to dissatisfied passengers 18,994 making them the most satisfied customer segment.
+
+ In contrast, Young Adults reported substantially higher dissatisfaction 20,106 than satisfaction 10,927, indicating a negative perception of the airline experience within this group. 
+
+Older Adults showed a relatively balanced distribution, with 14,659 satisfied passengers and 13,898 dissatisfied passengers. 
+Children and Senior passengers recorded considerably higher dissatisfaction levels, with Children reporting 8,200 dissatisfied passengers compared to 1,640 satisfied, while Seniors recorded 4,111 dissatisfied passengers against only 934 satisfied passengers.
+
+#### Key Insight: 
+The analysis suggests that Dano Airlines performs relatively well among Adult and Older Adult passengers but struggles to meet the expectations of Young Adults, Children and Senior passengers. The particularly high dissatisfaction levels among Young Adults indicate that this group may be driving a significant portion of the airline's overall dissatisfaction rate. 
+
+## Service Performance and Gap Analysis
+
+### Average Satisfaction Across Airline Services: 
+
+The analysis was carried out to evaluate how passengers rate each airline service overall.
+
+The analysis reveals that passengers rated most airline services moderately (which shows that none of the service is doing exceptionally great), with average scores ranging between 2.7 and 3.6 out of 5. 
+
+The highest-rated services were Baggage Handling (3.6) and In-flight Service (3.6), indicating relatively strong performance in operational and onboard service delivery. Other services such as In-flight Entertainment (3.4), Leg Room Service (3.4), Seat Comfort (3.4), Online Boarding (3.3), and On-board Service (3.4) also received favorable ratings. 
+
+However, In-flight Wi-Fi Service (2.7) received the lowest average rating, followed by Ease of Online Booking (2.8). This suggests that passengers experience challenges with internet connectivity and the digital booking process, which may negatively influence their overall travel experience. 
+
+### Service Gap Analysis:
+
+The service gap analysis was conducted to identify which airline services have the greatest influence on passenger satisfaction. By comparing the average ratings of satisfied and dissatisfied passengers across service categories.
+
+Service gaps observed:
+
+
+
+
+
+

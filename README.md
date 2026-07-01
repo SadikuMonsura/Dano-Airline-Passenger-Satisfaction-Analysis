@@ -318,7 +318,23 @@ Service gaps observed:
 #### Key Insight: 
 Large satisfaction gaps in In-flight Entertainment, Seat Comfort, On-board Service, Leg Room Service, and Cleanliness indicate that onboard experience strongly influences how passengers evaluate the airline. 
 
+## RECOMMENDATIONS
 
+1. Developing first-time passenger experience through "First-Time Passenger Experience Program"  including clearer travel guidance, proactive customer support and personalized communication throughout the journey, could increase satisfaction rating. 
+
+2. Review the needs of personal travelers and introduce more value-driven offerings such as family-friendly services, flexible booking options, and improved onboard entertainment.
+
+3. The analysis highlights a significant service quality gap across travel classes. This shows that improving  the Economy Class experience by focusing on seat comfort, legroom, boarding efficiency and onboard services, where customer expectations are currently not being met.
+
+4. Introduce targeted service improvements such as better entertainment options for young adults, child-friendly travel support for families, and enhanced assistance services for senior passengers.
+
+5. Prioritize improvements in the services with the largest satisfaction gaps, particularly Online Boarding, In-flight Entertainment, and Seat Comfort, as these are most likely to increase overall passenger satisfaction.
+
+6. Introduce targeted service improvements such as better entertainment options for young adults, child-friendly travel support for families, and enhanced assistance services for senior passengers.
+
+7. Passengers experienced an average departure and arrival delay of 15 minutes, which may negatively affect perceptions of service reliability. So Strengthen operational planning and delay communication processes to reduce disruptions and improve passenger confidence in the airline's reliability. 
+
+8. Focus on operational improvement efforts on enhancing cabin comfort, entertainment quality, staff service delivery, and aircraft cleanliness to improve the overall passenger experience.
 
 
 

@@ -222,7 +222,7 @@ Data preparation activities included:
 - Average Arrival Delay
      15 Minutes
 
-#### Overall Passenger Satisfaction Performance :
+### Overall Passenger Satisfaction Performance :
 
 The analysis of 129,880 passenger responses revealed that Dano Airlines is currently experiencing a customer satisfaction challenge.
 Only 43% of passengers reported being satisfied, while 57% reported dissatisfaction. 
@@ -232,5 +232,17 @@ The result suggests that a majority of passengers believe the airline is not mee
 
 From a business perspective, a dissatisfaction rate higher than the satisfaction rate represents a significant risk to customer retention, repeat bookings and brand reputation.
 
-#### Customer Type Analysis : 
+### Customer Type Analysis : 
 
+Customer satisfaction was analyzed across customer types to determine whether loyalty influences passenger experience.
+
+The results reveal that both customer groups reported more dissatisfaction than satisfaction. Returning customers recorded 55,372 dissatisfied passengers compared to 50,728 satisfied passengers, while first-time customers recorded 13,080 dissatisfied passengers and only 5,700 satisfied passengers.
+
+Although returning customers account for the largest number of dissatisfied passengers, they also represent the largest customer segment within the dataset. More importantly, the proportion of satisfied passengers is considerably higher among returning customers than among first-time customers.
+
+First-time customers exhibit a much larger imbalance between satisfaction and dissatisfaction, indicating that new passengers are less likely to have a positive travel experience with Dano Airlines.
+
+#### Key Insight:
+Although both customer groups reported high levels of dissatisfaction, first-time customers were less satisfied than returning customers. This indicates that the airline faces challenges in creating positive first impressions.  
+
+### Travel Type Analysis : 

@@ -246,3 +246,26 @@ First-time customers exhibit a much larger imbalance between satisfaction and di
 Although both customer groups reported high levels of dissatisfaction, first-time customers were less satisfied than returning customers. This indicates that the airline faces challenges in creating positive first impressions.  
 
 ### Travel Type Analysis : 
+
+Passenger satisfaction was also evaluated based on travel purpose.
+
+Business travelers recorded significantly higher satisfaction levels than personal travelers. Approximately 52,356 business travelers were satisfied, compared to 37,331 dissatisfied passengers. Conversely, personal travelers showed lower satisfaction levels, with dissatisfaction (36115) exceeding satisfaction(4072).
+
+#### Key Insight: 
+This suggests that Dano Airlines currently delivers a stronger experience for business travelers than for leisure passengers.
+Since leisure travelers often have greater flexibility in choosing airlines, continued dissatisfaction within this segment may lead to customer loss and reduced market competitiveness.
+
+### Travel Class Analysis:
+
+ One of the strongest patterns identified in the analysis is the relationship between travel class and passenger satisfaction.
+ 
+Business Class passengers recorded the highest satisfaction levels, with 43,166 satisfied passengers compared to 18,994 dissatisfied passengers.
+
+Economy Class showed the opposite trend. 47,366 passengers reported dissatisfaction, while only 10,943 reported satisfaction.
+Economy Plus also recorded more dissatisfied than satisfied passengers (7092 and 2319 respectivity) .
+
+These findings indicate that passenger experience varies significantly across travel classes. While premium passengers appear satisfied with the services provided, Economy passengers report substantially poorer experiences.
+
+#### Key Insight: 
+Because Economy passengers typically represent the largest customer segment, they are the primary contributor to overall dissatisfaction, even modest improvements in this category could significantly increase overall satisfaction rates.This highlights a significant service quality gap across travel classes. 
+

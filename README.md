@@ -298,7 +298,25 @@ However, In-flight Wi-Fi Service (2.7) received the lowest average rating, follo
 The service gap analysis was conducted to identify which airline services have the greatest influence on passenger satisfaction. By comparing the average ratings of satisfied and dissatisfied passengers across service categories.
 
 Service gaps observed:
+- Online Boarding (1.37)
+- In-flight Entertainment (1.07)
+- Seat Comfort (0.93)
+- On-board Service (0.84)
+- Leg Room Service (0.83)
+- Cleanliness(0.82)
+ - In-flight-wifi-Service(0.76)
+- Checking-in Service(0.61)
+- Baggage Handing(0.60)
+- In-flight-Service(0.58)
+- Food and Drink(0.57)
+- Ease of online Booking(0.48)
+- Gate Location(-0.01)
+- Departure and Arrival Time Convenience(-0.13)
 
+ The analysis highlights areas where perceptions differ most significantly. Services with larger gaps, such as Online Boarding and In-flight Entertainment, represent the most impactful opportunities for improving overall customer satisfaction, while services with smaller gaps have a relatively lower influence on passenger sentiment. 
+
+#### Key Insight: 
+Large satisfaction gaps in In-flight Entertainment, Seat Comfort, On-board Service, Leg Room Service, and Cleanliness indicate that onboard experience strongly influences how passengers evaluate the airline. 
 
 
 
